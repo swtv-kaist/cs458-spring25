@@ -1,0 +1,18 @@
+// Hello CREST example.
+// This example shows how to define a symbolic variable.
+#include <crest.h> // for CREST 
+#include <stdio.h>
+
+int main(){
+    int x;
+    CREST_int(x); // Define x as a symbolic input.
+
+    printf("x = %d\n", x); 
+    if (x > 100){
+        printf("x is greater than 100\n");
+    }else{
+        printf("x is less than or equal to 100\n");
+    }
+    return 0;
+}
+

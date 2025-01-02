@@ -1,0 +1,39 @@
+        -:    0:Source:example.c
+        -:    0:Graph:example.gcno
+        -:    0:Data:example.gcda
+        -:    0:Runs:2
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+function main called 2 returned 100% blocks executed 73%
+        2:    2:int main(int argc, char **argv){
+        2:    3:    int i=0,j=0;
+        2:    4:    if (argc < 2) {
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:    5:        printf("Usage:…\n");exit(-1);}
+call    0 never executed
+call    1 never executed
+        2:    6:    i = atoi(argv[1]);
+call    0 returned 100%
+        2:    7:    printf("i=%d\n",i);
+call    0 returned 100%
+        -:    8:
+        2:    9:    if( i == 0)
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:   10:        j=0;
+        -:   11:    else {
+        2:   12:        if (i == 1)
+branch  0 taken 0% (fallthrough)
+branch  1 taken 100%
+    #####:   13:            j=1;
+        2:   14:        if (i > 1 && i < 10)
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+branch  2 taken 100% (fallthrough)
+branch  3 taken 0%
+        2:   15:            j=2;
+        -:   16:    }
+        2:   17:    printf("j=%d\n",j);
+call    0 returned 100%
+        -:   18:}

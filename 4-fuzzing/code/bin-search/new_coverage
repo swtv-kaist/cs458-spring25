@@ -1,0 +1,74 @@
+Source file: bin-search-crown.c
+	Function: setup_array
+	Covered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|         3 |       20 | 0 < n                                         |
+	|         4 |       20 | n <= 8 && 0 < n                               |
+	|         5 |       20 | !(n <= 8) && 0 < n                            |
+	|         6 |       20 | !(0 < n)                                      |
+	|        12 |       24 | c < n                                         |
+	|        13 |       24 | !(c < n)                                      |
+	|        16 |       28 | c > 0                                         |
+	|        19 |       28 | !(c > 0)                                      |
+	|        17 |       30 | ! (array[c - 1] <= array[c])                  |
+	|        18 |       30 | !(! (array[c - 1] <= array[c]))               |
+	No uncovered Branch
+
+	Function: bin_search
+	Covered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        29 |       45 | first <= last                                 |
+	|        30 |       45 | !(first <= last)                              |
+	|        32 |       46 | array[middle] < search                        |
+	|        33 |       46 | !(array[middle] < search)                     |
+	|        34 |       48 | array[middle] == search                       |
+	|        36 |       48 | !(array[middle] == search)                    |
+	No uncovered Branch
+
+	Function: check
+	Covered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        42 |       63 | idx == -1                                     |
+	|        57 |       63 | !(idx == -1)                                  |
+	|        47 |       64 | i < n                                         |
+	|        48 |       64 | !(i < n)                                      |
+	|        52 |       65 | !(array[i] == search)                         |
+	Uncovered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        50 |       65 | array[i] == search                            |
+
+	Function: check2
+	Covered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        65 |       74 | i < n                                         |
+	|        66 |       74 | !(i < n)                                      |
+	|        70 |       75 | !(old_array[i] != array[i])                   |
+	Uncovered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        68 |       75 | old_array[i] != array[i]                      |
+
+	Function: main
+	Covered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        80 |       83 | i < n                                         |
+	|        81 |       83 | !(i < n)                                      |
+	|        86 |       94 | tmp                                           |
+	|        90 |       95 | tmp___0                                       |
+	Uncovered Branches
+	| Branch ID | Line No. | Condition to cover the BR                     |
+	|        87 |       94 | !(tmp)                                        |
+	|        91 |       95 | !(tmp___0)                                    |
+
+
+Summary
+Source file: bin-search-crown.c
+| Function name               | cov BR# | uncov BR# | total BR# | cov rate(%) |
+| setup_array                 |      10 |         0 |        10 |       100.0 |
+| bin_search                  |       6 |         0 |         6 |       100.0 |
+| check                       |       5 |         1 |         6 |        83.3 |
+| check2                      |       3 |         1 |         4 |        75.0 |
+| main                        |       4 |         2 |         6 |        66.7 |
+
+Total Coverage
+| cov BR# | uncov BR# | total BR# | cov rate(%) |
+|      28 |         4 |        32 |        87.5 |
