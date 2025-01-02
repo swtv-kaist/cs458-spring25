@@ -1,33 +1,21 @@
-# KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
+# KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'25
 
 ## Announcement
-- May 26: A makeup class movie file for concolic testing is uploaded 
-- May 24: Please run only 1 instance of AFL++ per person, since no one can run AFL++ if all CPU cores of a server are occupied by AFL++ instances.
-- May 16: No class on May 21 due to graduate applicant interview
-- May 9: We will have 10 more minutes in each of the remaining classes, instead of having makeup classes.
-- May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual
-- Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
-  -  HW#3 due date: April 20
-  -  HW#4 due date: April 30
-
-- Mar 11: Online class on Mar 19 (Tues), Offline class on Mar 21 (Thurs)
-- Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
-
-- Feb 22: CS458 class room is changed to E3 RM#1101 
+ 
 ## Administrative Information
 
 - Instructor: [Prof. Moonzoo Kim](https://swtv.kaist.ac.kr/members/mzkim)
 
-  - Office: 2434 (located at the east wing of E3-1)
+  - Office: E3-1 Rm# 2434 (located at the east wing of E3-1)
   - Phone: 042-350-3543
   - E-mail: moonzoo.kim @ gmail.com
   - Office hour: Tues 4:00-5:00 PM (reservation e-mail is preferred)
 
-- Teaching assistants: Youngseok Choi (youngseok.choi@kaist.ac.kr) 
+- Teaching assistants: Heechan Yang (heechan.yang96@gmail.com) 
 
-- Lecture hours: Tue/Thur 5:30 - 6:45 PM
+- Lecture hours: Tue/Thur TBD  
 
-- Lecture room: E3 Rm#1101 (and through Zoom)
+- Lecture room: E3 TBD (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 
