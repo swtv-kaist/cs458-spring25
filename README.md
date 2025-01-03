@@ -39,9 +39,10 @@
   - Please, include your student ID in the name of your submiited file(s), so that TAs can easily identify which files are yours.
   
 - Questions on the course materials and homeworks should be posted as github issues 
-  - https://github.com/swtv-kaist/cs458-spring24/issues
+  - https://github.com/swtv-kaist/cs458-spring25/issues
   - You can see the Q&A of the previous year's CS458 class
     - https://github.com/swtv-kaist/cs458-spring23/issues
+    - https://github.com/swtv-kaist/cs458-spring24/issues
 
 - Excerpts from 강의평가 (4.93 out of 5 in Spring 23)
     
