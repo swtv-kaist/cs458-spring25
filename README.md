@@ -13,9 +13,9 @@
 
 - Teaching assistants: Heechan Yang (heechan.yang96@gmail.com) 
 
-- Lecture hours: Tue/Thur TBD  
+- Lecture hours: Tue/Thur 17:30-19:00   
 
-- Lecture room: E3 TBD (and through Zoom)
+- Lecture room: E3 Rm# 2443 (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 
