@@ -31,7 +31,7 @@
   - The official language in the class is English. All students should submit all written documents such as homework, project reports, exam, etc. in English; 20% penalty of the max score otherwise.  
 
 - Homework:
-  - Homework should be submitted through KLMS https://klms.kaist.ac.kr/course/view.php?id=156169
+  - Homework should be submitted through KLMS https://klms.kaist.ac.kr/course/view.php?id=165485
     - Hint: many questions of exams are from the homeworks.
   - Late HW will be accepted with 10% penalty of the max score in 1 day, 30% penalty of the max score in 3 days. HW will not be accepted after then.
   - All programming HWs you submit must be able to be replayed by executing a single script file on a TA's server account (i.e., submitted HW should not have a dependency on your home directory, environment, etc.).  Also, the replayed execution must demonstrate the same output to the submitted hw. You will get 10% penalty of the max score otherwise.
