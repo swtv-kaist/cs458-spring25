@@ -2,7 +2,7 @@
 
 ## Announcement
 
-Mar 25: No class on Apr 1, 3 due to ICST 25 conf.  I will upload class movie files instead of real-time classes.  
+Mar 25: No class on Apr 1, 3 due to [ICST 25 conf.](https://conf.researchr.org/home/icst-2025)  I will upload class movie files instead of real-time classes.  
  
 ## Administrative Information
 
