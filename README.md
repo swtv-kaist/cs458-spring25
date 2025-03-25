@@ -1,6 +1,8 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'25
 
 ## Announcement
+
+Mar 25: No class on Apr 1, 3 due to ICST 25 conf.  I will upload class movie files instead of real-time classes.  
  
 ## Administrative Information
 
@@ -104,7 +106,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Mar 20, 25: [Logic coverage](2-coverage/lec9-Logic-covearge-v3.pptx) [[pdf]](2-coverage/lec9-Logic-covearge-v3.pdf)
   - [Example](2-coverage/lec9.5-ACC-ICC-example.pptx) [[pdf]](2-coverage/lec9.5-ACC-ICC-example.pdf)
 
-- Homework 2: Manual testing of `grep` utility for branch coverage (graph coverage)
+- Homework 2: Manual testing of `grep` utility for branch coverage (graph coverage) due April 3 midnight
 
 - Mar 28:  [Logic coverage from source code](2-coverage/lec10-logic-covearge-code-v3.pptx) [[pdf]](2-coverage/lec10-logic-covearge-code-v3.pdf)
 
