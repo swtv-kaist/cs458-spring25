@@ -111,6 +111,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Mar 28:  [Logic coverage from source code](2-coverage/lec10-logic-covearge-code-v3.pptx) [[pdf]](2-coverage/lec10-logic-covearge-code-v3.pdf)
 
 - Mar 27, Apr 1: [Mutation testing](2-coverage/lec11-mutation-testing-v2.pptx) [[pdf]](2-coverage/lec11-mutation-testing-v2.pdf) 
+  - Lecture movie files ([mutation-testing-part1.mp4](https://drive.google.com/file/d/1rz3hbq5YcpU1Jd9yB9RtstTUWiP2XIVG/view?usp=drive_link), [mutation-testing-part2.mp4](https://drive.google.com/file/d/1YsjjrTe8HpCu7seP8MYlwpm9f7CrwwO1/view?usp=drive_link))
   - ["Design Of Mutant Operators For The C Programming Language" by Agrawal et al](2-coverage/mutop-design-harness.pdf)
   - ["MUSIC: MUtation analySIs tool with high Configurability and extensibility" by Phan et al (Mutation Workshop 18)](https://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
     - [Github repo of MUSIC](https://github.com/swtv-kaist/MUSIC)
