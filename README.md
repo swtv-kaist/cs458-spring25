@@ -1,7 +1,7 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'25
 
 ## Announcement
-Apr 9: Midterm exam 17:30-18:45 April 17 (Thur) @ E3-1 Rm#2434 as announced by the dept. of academic affairs KAIST.
+Apr 9: Midterm exam 17:30-18:45 April 17 (Thurs) @ E3-1 Rm#2434 as determined by the dept. of academic affairs KAIST.
 
 Mar 31: Lecture movies on the  mutation testing are uploaded.
 
