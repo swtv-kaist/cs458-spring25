@@ -55,14 +55,14 @@ int main(int argc, char *argv[]) {
     $ llvm-cov-19 show ./example -instr-profile=total-runs.profdata --show-mcdc
     ```
     * screenshot result: 
-        ![image1](./assets/terminal-mcdc-coverage-ex.png)
+        ![image1](./assets/terminal-mcdc-coverage-report-ex.png)
 
 2. **coverage percentage report to terminal**: use ``llvm-cov-19`` to report MC/DC coverage percentage in terminal:
     ```
     $ llvm-cov-19 report ./example -instr-profile=total-runs.profdata --show-mcdc-summary
     ```
     * screenshot result:
-        ![image2](./assets/terminal-mcdc-coverage-report-ex.png)
+        ![image2](./assets/terminal-mcdc-coverage-ex.png)
 
 3. **output to html file**: use ``llvm-cov-19`` to report MC/DC coverage in html form:
     ```
@@ -71,3 +71,20 @@ int main(int argc, char *argv[]) {
     * screenshot result:
         ![image3](./assets/html-mcdc-coverage-report-ex.png)
 
+
+## Region coverage explained.
+| "Region coverage is the percentage of code regions which have been executed at least once. A code region may span multiple lines (e.g in a large function body with no control flow). However, it’s also possible for a single line to contain multiple code regions (e.g in “return x || y && z”)" [reference.](https://clang.llvm.org/docs/SourceBasedCodeCoverage.html)
+
+* 9 regions identified in the example code, ``example.c``
+
+    | # | Code | Why a new region? |
+    |---|------|-------------------|
+    | 1 | `Function entry (int main(...))` | Every function gets at least one entry region |
+    | 2 | `if (argc != 3)` | The condition is its own region |
+    | 3 | `printf("Usage: ...")` | This block only executes if argc != 3 |
+    | 4 | `return 1;` | Separate from the printf, so it's its own region |
+    | 5 | `argv[1][0] == 'H'` | First part of the logical && — LLVM tracks each condition for MCDC |
+    | 6 | `argv[2][0] == 'I'` | Second part of && — tracked separately |
+    | 7 | `printf("Hello World")` | Executed only if both conditions above are true |
+    | 8 | `printf("Goodbye World")` | Executed if the condition is false |
+    | 9 | `return 0;` | Final return, common to all paths |
