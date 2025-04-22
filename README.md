@@ -100,7 +100,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
      - Understand C++ (https://scitools.com)  (free academic version available)
      - Source Insight (https://www.sourceinsight.com/)
 
-- Homework 1: Graph coverage (Due Mar 20)
+- Homework 1: Graph coverage  
 
 - Mar 18: [gcov tutorial](2-coverage/lec6-gcov-llvm-cov-v6.pptx) [[pdf]](2-coverage/lec6-gcov-llvm-cov-v6.pdf)  
    - [gcc manual](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html), [gcov manual](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
@@ -109,7 +109,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Mar 20, 25: [Logic coverage](2-coverage/lec9-Logic-covearge-v3.pptx) [[pdf]](2-coverage/lec9-Logic-covearge-v3.pdf)
   - [Example](2-coverage/lec9.5-ACC-ICC-example.pptx) [[pdf]](2-coverage/lec9.5-ACC-ICC-example.pdf)
 
-- Homework 2: Manual testing of `grep` utility for branch coverage (graph coverage) due April 3 midnight
+- Homework 2: Manual testing of `grep` utility for branch coverage (graph coverage) 
 
 - Mar 28:  [Logic coverage from source code](2-coverage/lec10-logic-covearge-code-v3.pptx) [[pdf]](2-coverage/lec10-logic-covearge-code-v3.pdf)
 
@@ -119,7 +119,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - ["MUSIC: MUtation analySIs tool with high Configurability and extensibility" by Phan et al (Mutation Workshop 18)](https://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
     - [Github repo of MUSIC](https://github.com/swtv-kaist/MUSIC)
 
-- Homework 3: Manual testing of `tcas` utility for MC/DC coverage (logic coverage) (Due April 17 midnight)
+- Homework 3: Manual testing of `tcas` utility for MC/DC coverage (logic coverage) 
 
 
 
@@ -133,7 +133,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Apr 10: Q&A for midterm exam
 
-- Homework 4: kcov coverage tool (Clang) (Due April 30 midnight)
+- Homework 4: kcov coverage tool (Clang) 
 
 
 - **Apr TBD: Midterm exam (closed book, NOT including Clang part) 5:30-7:00 pm**
@@ -144,7 +144,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Apr 24, 29: [LLVM pass](3-clang-llvm/lec13-llvm-pass-v3.pptx) [[pdf]](3-clang-llvm/lec13-llvm-pass-v3.pdf), [Clang vs LLVM IR](3-clang-llvm/lec14-clang-vs-llvm.pptx) [[pdf]](3-clang-llvm/lec14-clang-vs-llvm.pdf)
   - [Template code for LLVM pass (including a complete intwrite example)](3-clang-llvm/code/llvm/kcov-llvm.tar.gz)
 
-- Homework 5: kcov coverage tool (LLVM IR) (Due May 14 midnight)
+- Homework 5: kcov coverage tool (LLVM IR)  
 
 - May 1: [Automated Bug Detection through Static Analysis](3-clang-llvm/lec15-coverity-v2.pptx) [[pdf]](3-clang-llvm/lec15-coverity-v2.pdf)
 
@@ -161,7 +161,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - May 15: [Case study of Fuzzing Application: POWERUP fuzzer](4-fuzzing/lec43-powerup_ICST_2023-v2.pptx) [[pdf]](4-fuzzing/lec43-powerup_ICST_2023-v2.pdf)
 
-- Homework 6: Automated testing of grep by applying AFL++ (Due May 26 midnight)
+- Homework 6: Automated testing of grep by applying AFL++ 
 
 ### Part V: Automated Test Generation: Concolic Testing (aka., Dynamic Symbolic Execution))
 - May 20: [Automated SW analysis for high reliability: a Concolic testing approach](5-concolic-testing/lec31-concolic-v6.pptx) [[pdf]](5-concolic-testing/lec31-concolic-v6.pdf)
