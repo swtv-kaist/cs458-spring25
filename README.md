@@ -129,6 +129,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Apr 8: [Clang tutorial 2/2: a program analysis tool by using Clang](3-clang-llvm/lec8-building-Clang-analyzer-v3.pptx) [[pdf]](3-clang-llvm/lec8-building-Clang-analyzer-v3.pdf)
   - [PrintFunction.cpp](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/PrintFunction.cpp)
+  - [Branch-identify-template.zip](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/branch-identify-template.zip)
   - [Document for useful clang APIs](https://3-24.github.io/cs458-manual/docs/clang-inst/)
 
 - Apr 10: Q&A for midterm exam
