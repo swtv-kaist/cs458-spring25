@@ -208,5 +208,5 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 --->
 
 
-- **June TBD : Final exam (closed book) 5:30-7:00 pm** 
+- **June 12th : Final exam (closed book) 5:30-7:00 pm** 
 
