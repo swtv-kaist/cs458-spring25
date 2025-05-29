@@ -191,7 +191,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Homework 7: Automated testing of TCAS by applying CROWN 
 
-- June 5: [Automated unit testing](5-concolic-testing/lec36.automated_unit_testing-v2.pptx) [[pdf]](3-fuzz-concolic/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](5-concolic-testing/lec37-ls-unit-testing-v4.pdf)
+- June 5: [Automated unit testing](5-concolic-testing/lec36.automated_unit_testing-v2.pptx) 
+[[pdf]](5-concolic-testing/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](5-concolic-testing/lec37-ls-unit-testing-v4.pdf)
 
 <!---
 - Online makeup class: Industrial case studies (pre-recorded movie clip) (can be included in the final exam)
