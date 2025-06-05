@@ -197,13 +197,13 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - June 5: [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](5-concolic-testing/lec37-ls-unit-testing-v4.pdf)
 
-[Concolic Testing for High Test Coverage and Reduced Human Effort in Automotive Industry](5-concolic-testing/lec39-ICSE19-MAIST-rev18.pptx) [[pdf]](5-fuzz-concolic-testing/lec39-ICSE19-MAIST-rev18.pdf)  [ICSE'19 paper] [[Movie (35min)]](https://drive.google.com/file/d/1G2j92qvfJBkPvIiBIklYE2EWjadEYIiW/view?usp=share_link)
-
-<!---
-- Online makeup class: Industrial case studies (pre-recorded movie clip) (can be included in the final exam)
   - [Automated Unit Testing of Large Industrial Embedded Software using Concolic Testing](3-fuzz-concolic/lec38-conbol.pptx) [[pdf]](3-fuzz-concolic/lec38-conbol.pdf)  [ASE'13 paper] [[Movie (40 min)]](https://drive.google.com/file/d/10DaVUtSZGJiHhHKe-abez7C3XuFQxoBx/view?usp=share_link)
   
---->
+  - [Concolic Testing for High Test Coverage and Reduced Human Effort in Automotive Industry](5-concolic-testing/lec39-ICSE19-MAIST-rev18.pptx) [[pdf]](5-fuzz-concolic-testing/lec39-ICSE19-MAIST-rev18.pdf)  [ICSE'19 paper] [[Movie (35min)]](https://drive.google.com/file/d/1G2j92qvfJBkPvIiBIklYE2EWjadEYIiW/view?usp=share_link)
+
+
+  
+
 
 
 <!---
